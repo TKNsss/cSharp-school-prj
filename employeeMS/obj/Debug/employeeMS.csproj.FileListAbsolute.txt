@@ -1,0 +1,16 @@
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\obj\Debug\employeeMS.csproj.AssemblyReference.cache
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\obj\Debug\employeeMS.AddEmployeeForm.resources
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\obj\Debug\employeeMS.DashboardForm.resources
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\obj\Debug\employeeMS.Form1.resources
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\obj\Debug\employeeMS.LoginForm.resources
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\obj\Debug\employeeMS.LoginLayoutForm.resources
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\obj\Debug\employeeMS.MainForm.resources
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\obj\Debug\employeeMS.Properties.Resources.resources
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\obj\Debug\employeeMS.RegisterLayoutForm.resources
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\obj\Debug\employeeMS.csproj.GenerateResource.cache
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\obj\Debug\employeeMS.csproj.CoreCompileInputs.cache
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\bin\Debug\employeeMS.exe.config
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\bin\Debug\employeeMS.exe
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\bin\Debug\employeeMS.pdb
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\obj\Debug\employeeMS.exe
+C:\Users\FPTSHOP\OneDrive\Desktop\code-career\cSharp\employeeMS\employeeMS\obj\Debug\employeeMS.pdb

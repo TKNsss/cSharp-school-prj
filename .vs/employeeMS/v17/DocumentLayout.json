@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|c:\\users\\fptshop\\onedrive\\desktop\\code-career\\csharp\\employeems\\employeems\\ui\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\ui\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|c:\\users\\fptshop\\onedrive\\desktop\\code-career\\csharp\\employeems\\employeems\\ui\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\ui\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\dao\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\dao\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|c:\\users\\fptshop\\onedrive\\desktop\\code-career\\csharp\\employeems\\employeems\\ui\\registerlayoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\ui\\registerlayoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\ui\\registerlayoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\ui\\registerlayoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\dao\\admindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\dao\\admindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\utils\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\utils\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\ui\\loginlayoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\ui\\loginlayoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\ui\\loginlayoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\ui\\loginlayoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\ui\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\ui\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\ui\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\ui\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081333C-34FD-4CD8-BB93-E863F5B52D21}|employeeMS\\employeeMS.csproj|solutionrelative:employeems\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeems\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeems\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEmployeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\AddEmployeeForm.cs",
+              "RelativeDocumentMoniker": "employeeMS\\UI\\AddEmployeeForm.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\AddEmployeeForm.cs",
+              "RelativeToolTip": "employeeMS\\UI\\AddEmployeeForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:22:48.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\AddEmployeeForm.cs",
+              "RelativeDocumentMoniker": "employeeMS\\UI\\AddEmployeeForm.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\AddEmployeeForm.cs [Design]",
+              "RelativeToolTip": "employeeMS\\UI\\AddEmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:22:44.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminDAO.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\DAO\\AdminDAO.cs",
+              "RelativeDocumentMoniker": "employeeMS\\DAO\\AdminDAO.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\DAO\\AdminDAO.cs",
+              "RelativeToolTip": "employeeMS\\DAO\\AdminDAO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:24:50.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\Utils\\Validator.cs",
+              "RelativeDocumentMoniker": "employeeMS\\Utils\\Validator.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\Utils\\Validator.cs",
+              "RelativeToolTip": "employeeMS\\Utils\\Validator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA4wDEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:47:00.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterLayoutForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\RegisterLayoutForm.cs",
+              "RelativeDocumentMoniker": "employeeMS\\UI\\RegisterLayoutForm.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\RegisterLayoutForm.cs [Design]",
+              "RelativeToolTip": "employeeMS\\UI\\RegisterLayoutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:45:32.586Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterLayoutForm.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\RegisterLayoutForm.cs",
+              "RelativeDocumentMoniker": "employeeMS\\UI\\RegisterLayoutForm.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\RegisterLayoutForm.cs",
+              "RelativeToolTip": "employeeMS\\UI\\RegisterLayoutForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:45:29.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\DAO\\EmployeeDAO.cs",
+              "RelativeDocumentMoniker": "employeeMS\\DAO\\EmployeeDAO.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\DAO\\EmployeeDAO.cs",
+              "RelativeToolTip": "employeeMS\\DAO\\EmployeeDAO.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:44:37.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "employeeMS\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "employeeMS\\UI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:16:09.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginLayoutForm.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\LoginLayoutForm.cs",
+              "RelativeDocumentMoniker": "employeeMS\\UI\\LoginLayoutForm.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\LoginLayoutForm.cs",
+              "RelativeToolTip": "employeeMS\\UI\\LoginLayoutForm.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwDAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:17:04.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "employeeMS\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\LoginForm.cs",
+              "RelativeToolTip": "employeeMS\\UI\\LoginForm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAjwBcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:30:52.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginLayoutForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\LoginLayoutForm.cs",
+              "RelativeDocumentMoniker": "employeeMS\\UI\\LoginLayoutForm.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\LoginLayoutForm.cs [Design]",
+              "RelativeToolTip": "employeeMS\\UI\\LoginLayoutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:13:36.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "employeeMS\\UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\Form1.cs",
+              "RelativeToolTip": "employeeMS\\UI\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAywB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:01:12.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddEmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\AddEmployeeForm.cs",
+              "RelativeDocumentMoniker": "employeeMS\\AddEmployeeForm.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\AddEmployeeForm.cs [Design]",
+              "RelativeToolTip": "employeeMS\\AddEmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:01:46.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "employeeMS\\UI\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\DashboardForm.cs",
+              "RelativeToolTip": "employeeMS\\UI\\DashboardForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:02:30.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "employeeMS\\UI\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "employeeMS\\UI\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:56:21.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "employeeMS\\UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\MainForm.cs [Design]",
+              "RelativeToolTip": "employeeMS\\UI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:43:01.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-30T09:26:09.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "employeeMS\\UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\OneDrive\\Desktop\\code-career\\cSharp\\employeeMS\\employeeMS\\UI\\Form1.cs [Design]",
+              "RelativeToolTip": "employeeMS\\UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:54:12.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
